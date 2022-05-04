@@ -1,0 +1,6 @@
+please use the following info.
+const quickRouter = "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff";
+  const quickFactory = "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32";
+  const stakingRewardAddressForDAIANDMAI = "0xb827B23e2276ceB912CB42088ab064800447c158";
+ const dai = "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"; //Dai Stablecoin on Polygon
+const mai = "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"; // MAI on polygon
